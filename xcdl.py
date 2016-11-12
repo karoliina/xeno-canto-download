@@ -7,7 +7,7 @@
 # The program downloads all the files found with the search terms into
 # subdirectory sounds.
 #
-# Karoliina Oksanen <hkoksanen@gmail.com>, 2014
+# Karoliina Oksanen, 2014
 
 import urllib
 import sys
